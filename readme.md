@@ -13,8 +13,7 @@ Durante a graduação, participei de projetos de iniciação científica em que 
 ## EXPERIÊNCIAS
 ### Aperfeiçoamento do Sistema de Reconhecimento de Comandos de Voz.
 
-> Projeto de Iniciação Científica. Bolsista PROBIC/UEFS.
-
+> Projeto de Iniciação Científica. Bolsista PROBIC/UEFS.\
 > 2023-2024
 
 - Treinamento de Modelos de Speech-to-Text com Base na Arquitetura DeepSpeech para o reconhecimento de comandos por voz, utilizando o *dataset* do Common Voice.
