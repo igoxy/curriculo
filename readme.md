@@ -44,7 +44,7 @@ Português – Fluente.\
 Inglês – Intermediário.
 
 ## ATIVIDADES COMPLEMENTARES
-Membro voluntário do Ramo Estudantil IEEE da Universidade Estadual de Feira de Santana no capítulo *Robotics and Automation Society* (RAS)
+Membro voluntário do Ramo Estudantil IEEE da Universidade Estadual de Feira de Santana no capítulo *Robotics and Automation Society* (RAS).
 
 
 ## HABILIDADES
@@ -64,5 +64,5 @@ Membro voluntário do Ramo Estudantil IEEE da Universidade Estadual de Feira de 
 - Google Planilhas
 - Google Colab/Jupyter Notebook
 - Trello
-- Pacote Office.
+- Pacote Office
 
