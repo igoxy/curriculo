@@ -29,7 +29,7 @@ Durante a graduação, participei de projetos de iniciação científica em que 
 
 ### Engenharia de Computação - Universidade Estadual de Feira de Santana
 > 2019 - \
-Em andamento. Previsão de conclusão em dezembro de 2025.
+> Em andamento. Previsão de conclusão em dezembro de 2025.
 
 
 
